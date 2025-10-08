@@ -1,7 +1,7 @@
-# 🎮 Pygame Game  
+#  Pygame Game  
 
-## 📌 Description  
-A simple **Python** game built with **Pygame** using **OOP (Object-Oriented Programming)**.  
+##  Description  
+A simple **Python** game built with **Pygame** using **OOP**.  
 The player can:  
 - Move left/right  
 - Jump  
@@ -13,9 +13,9 @@ The game is designed using **classes** for better organization (e.g., `Player`, 
 
 ---
 
-## ⚙️ Requirements  
+##  Requirements  
 - Python 3.x  
-- **Pygame library** (مكتبة من بايثون خاصة بتطوير الألعاب)  
+- **Pygame library** 
 
 Install Pygame with:  
 ```bash
