@@ -1,15 +1,21 @@
-#  Pygame Game  
+# 🎮 Pygame Game  
 
-##  Description  
-A simple **Python** game built with **Pygame**.  
-The player can move left/right, jump, and shoot bullets to defeat monsters.  
-The game includes a **score system** and a **health bar**.  
+## 📌 Description  
+A simple **Python** game built with **Pygame** using **OOP (Object-Oriented Programming)**.  
+The player can:  
+- Move left/right  
+- Jump  
+- Shoot bullets to defeat monsters  
+- Collect score  
+- Keep track of health with a health bar  
+
+The game is designed using **classes** for better organization (e.g., `Player`, `Bullet`, `Enemy`).  
 
 ---
 
-##  Requirements  
+## ⚙️ Requirements  
 - Python 3.x  
-- Pygame library  
+- **Pygame library** (مكتبة من بايثون خاصة بتطوير الألعاب)  
 
 Install Pygame with:  
 ```bash
